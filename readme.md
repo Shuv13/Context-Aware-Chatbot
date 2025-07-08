@@ -15,7 +15,7 @@ Nora is a multilingual, context-aware chatbot built with the Groq API, LangChain
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/nora-chatbot.git
+   git clone https://github.com/Shuv13/Context-Aware-Chatbot.git
    cd nora-chatbot
    ```
 
